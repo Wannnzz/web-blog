@@ -1,0 +1,3 @@
+DELETE FROM PRODUCT
+where id = 7
+;
